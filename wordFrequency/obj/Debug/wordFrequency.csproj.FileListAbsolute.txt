@@ -1,0 +1,6 @@
+D:\MVC asp.net çalışmalar\wordFrequency\wordFrequency\bin\Debug\wordFrequency.exe.config
+D:\MVC asp.net çalışmalar\wordFrequency\wordFrequency\bin\Debug\wordFrequency.exe
+D:\MVC asp.net çalışmalar\wordFrequency\wordFrequency\bin\Debug\wordFrequency.pdb
+D:\MVC asp.net çalışmalar\wordFrequency\wordFrequency\obj\Debug\wordFrequency.csproj.CoreCompileInputs.cache
+D:\MVC asp.net çalışmalar\wordFrequency\wordFrequency\obj\Debug\wordFrequency.exe
+D:\MVC asp.net çalışmalar\wordFrequency\wordFrequency\obj\Debug\wordFrequency.pdb
